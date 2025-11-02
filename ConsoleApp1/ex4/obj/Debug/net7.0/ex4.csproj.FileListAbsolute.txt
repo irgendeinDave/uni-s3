@@ -1,0 +1,14 @@
+/home/david/uni-s3/ConsoleApp1/ex4/bin/Debug/net7.0/ex4
+/home/david/uni-s3/ConsoleApp1/ex4/bin/Debug/net7.0/ex4.deps.json
+/home/david/uni-s3/ConsoleApp1/ex4/bin/Debug/net7.0/ex4.runtimeconfig.json
+/home/david/uni-s3/ConsoleApp1/ex4/bin/Debug/net7.0/ex4.dll
+/home/david/uni-s3/ConsoleApp1/ex4/bin/Debug/net7.0/ex4.pdb
+/home/david/uni-s3/ConsoleApp1/ex4/obj/Debug/net7.0/ex4.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/uni-s3/ConsoleApp1/ex4/obj/Debug/net7.0/ex4.AssemblyInfoInputs.cache
+/home/david/uni-s3/ConsoleApp1/ex4/obj/Debug/net7.0/ex4.AssemblyInfo.cs
+/home/david/uni-s3/ConsoleApp1/ex4/obj/Debug/net7.0/ex4.csproj.CoreCompileInputs.cache
+/home/david/uni-s3/ConsoleApp1/ex4/obj/Debug/net7.0/ex4.dll
+/home/david/uni-s3/ConsoleApp1/ex4/obj/Debug/net7.0/refint/ex4.dll
+/home/david/uni-s3/ConsoleApp1/ex4/obj/Debug/net7.0/ex4.pdb
+/home/david/uni-s3/ConsoleApp1/ex4/obj/Debug/net7.0/ex4.genruntimeconfig.cache
+/home/david/uni-s3/ConsoleApp1/ex4/obj/Debug/net7.0/ref/ex4.dll
