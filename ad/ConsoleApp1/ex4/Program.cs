@@ -112,11 +112,11 @@ class Program
         }
     }
 
-    static void Main(string[] args)
+    /*static void Main(string[] args)
     {
         //TestAlgorithms();
         var e = new Ex1();
         e.RandomArray();
         e.InsertionSort();
-    }
+    }*/
 }
